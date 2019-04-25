@@ -1,0 +1,20 @@
+[
+  {
+    "name": "xiaoli-hos",
+    "doc": "李伟华",
+    "patient": "",
+    "ethAddress": "0x0E6182e99629d378f69FcFAe18dCF5E4a81aFCEC"
+  },
+  {
+    "name": "RenAi-hos",
+    "doc": "李时针",
+    "patient": "",
+    "ethAddress": "0xbD9DF4f43bD50Bd7B15F8368104ba18E3cA9A2b1"
+  },
+  {
+    "name": "xiaoliang-hos",
+    "doc": "帅哥",
+    "patient": "",
+    "ethAddress": "0x106AeB4D78ace6E689D28D9cBe42b955D6CcA1bb"
+  }
+]
